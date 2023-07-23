@@ -1,0 +1,39 @@
+
+.container_header {
+    background: #415474;
+}
+
+.container_header h1 {
+    color: azure;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn_nuevo {
+    margin-bottom: 30px;
+}
+
+.text_center{
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+}
+.tabla_resultado{
+    width: 100%;
+}
+
+.tabla_resultado .cabecera{
+    background-color: #9bb1c1;
+    font-weight: bold;
+    border: 1px solid #ccc;
+
+}
+
+.inline-form{
+    display: flex;
+    justify-content: space-around;
+}
+.inline-form .input_busqueda{
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+
